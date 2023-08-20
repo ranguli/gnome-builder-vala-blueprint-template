@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-builder-vala-blueprint-template">
+	<schema id="com.github.gnomebuldervalablueprinttemplate" path="/com/github/gnomebuldervalablueprinttemplate/">
+	</schema>
+</schemalist>

@@ -1,0 +1,6 @@
+data/com.github.gnomebuldervalablueprinttemplate.desktop.in
+data/com.github.gnomebuldervalablueprinttemplate.appdata.xml.in
+data/com.github.gnomebuldervalablueprinttemplate.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
